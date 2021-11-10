@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Task"
+    android:icon="@drawable/ic_baseline_chat_24"
+    android:id="@+id/task_icon"
+    /><item
+    android:title="Done"
+    android:icon="@drawable/ic_baseline_done_all_24"
+    android:id="@+id/done_icon"
+    /><item
+    android:title="Archive"
+    android:icon="@drawable/ic_baseline_archive_24"
+    android:id="@+id/archive_icon"
+    />
+
+
+
+
+
+</menu>
